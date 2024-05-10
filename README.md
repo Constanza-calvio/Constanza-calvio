@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about JAVA, Ux and ui Design, Science and Data and working on my front-end and back-end knowledge!
 - 💞️ I’m looking to collaborate with more amazing and passionate people!
 - 📫 How to reach me :
-- www.linkedin.com/in/constanza-belen-calvio-saavedra-758587274
+- www.linkedin.com/in/constanza-belen-calvio
 - ⚡ Fun fact: current obsessed with the live-action of Avatar: the last Airbender on netflix!, its so good  ✨
 
 - Español
@@ -12,7 +12,7 @@
 - 🌱 Actualmente estoy aprendiendo mas sobre el lenguaje Java, Diseño Ux y Ui para moviles y web, Ciencia de Datos y estoy mejorando mis habilidades en el front-end y back-end!
 - 💞️  Estoy motivada en encontrar nuevos colaboradores que sean apasionados igual que yo!
 - 📫 M epuedes encontrar en:
-- www.linkedin.com/in/constanza-belen-calvio-saavedra-758587274
+-www.linkedin.com/in/constanza-belen-calvio
 - ⚡ un Dato extra :  mi mood actual es estar obsesionada con Avatar la leyenda de Aang de Netflix! y no me arrepiento de nada ✨
 
 <!---
