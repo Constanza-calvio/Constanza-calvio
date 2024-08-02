@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with more amazing and passionate people!
 - 📫 How to reach me :
 - www.linkedin.com/in/constanza-belen-calvio
-- ⚡ Fun fact: current obsessed with the live-action of Avatar: the last Airbender on netflix!, its so good  ✨
+- ⚡ Fun fact: current obsessed with the the movie animation, Teenage Mutant Ninja Turtles: Mutant Mayhem soundtrack!, its so good  ✨
 
 - Español
 - - 👋 Hola, me llamo @Constanza-calvio                    
@@ -13,7 +13,7 @@
 - 💞️  Estoy motivada en encontrar nuevos colaboradores que sean apasionados igual que yo!
 - 📫 M epuedes encontrar en:
 -www.linkedin.com/in/constanza-belen-calvio
-- ⚡ un Dato extra :  mi mood actual es estar obsesionada con Avatar la leyenda de Aang de Netflix! y no me arrepiento de nada ✨
+- ⚡ un Dato extra :  mi mood actual es estar obsesionada con Las Tortujas Ninjas: Caos Mutante soundtrack en spotify! y no me arrepiento de nada ✨
 
 <!---
 Constanza-calvio/Constanza-calvio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
