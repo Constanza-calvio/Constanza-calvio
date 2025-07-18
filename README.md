@@ -1,19 +1,19 @@
 - 👋 Hi, I’m @Constanza-calvio                    
 - 👀 I’m interested in movies, science, music, photography, design and of course, programing 
-- 🌱 I’m currently learning more about JAVA, Ux and ui Design, Science and Data and working on my front-end and back-end knowledge!
+- 🌱 I’m currently learning more about JAVA, Ux and ui Design, Science and Data,Lionuz and network (OCI Certficiate with  Alura ) and working on my front-end and (for fun) back-end knowledge!
 - 💞️ I’m looking to collaborate with more amazing and passionate people!
 - 📫 How to reach me :
 - www.linkedin.com/in/constanza-belen-calvio
-- ⚡ Fun fact: current obsessed with the the movie animation, Teenage Mutant Ninja Turtles: Mutant Mayhem soundtrack!, its so good  ✨
+- ⚡ Fun fact: current obsessed with the Lofi music like Medieval Fantasy Music for Focus & Calm ✨
 
 - Español
 - - 👋 Hola, me llamo @Constanza-calvio                    
 - 👀 sobre mis intereses, me gusta el cine, las ciencias, musica, la fotografia diseño y obviamente programacion como desarrollador.
-- 🌱 Actualmente estoy aprendiendo mas sobre el lenguaje Java, Diseño Ux y Ui para moviles y web, Ciencia de Datos y estoy mejorando mis habilidades en el front-end y back-end!
+- 🌱 Actualmente estoy aprendiendo mas sobre el lenguaje Java, Diseño Ux y Ui, Ciencia de Datos, Linux y Redes (OCI Certificate con Alura) y estoy mejorando mis habilidades en el front-end (por diversion) y back-end!
 - 💞️  Estoy motivada en encontrar nuevos colaboradores que sean apasionados igual que yo!
-- 📫 M epuedes encontrar en:
+- 📫 Me puedes encontrar en:
 -www.linkedin.com/in/constanza-belen-calvio
-- ⚡ un Dato extra :  mi mood actual es estar obsesionada con Las Tortujas Ninjas: Caos Mutante soundtrack en spotify! y no me arrepiento de nada ✨
+- ⚡ un Dato extra :  Mi mood actual es estar obsesionada con la musica Lofi tipo Mediaval  o como Muscia epica y fantasiosa ✨
 
 <!---
 Constanza-calvio/Constanza-calvio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
