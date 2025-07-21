@@ -1,3 +1,8 @@
+
+<img width="4000" height="2000" alt="14728040_pdrmpattern3-pattern-boom-02b" src="https://github.com/user-attachments/assets/6a38c309-6473-4d2b-a1d9-0b81adad8ac8" />
+
+
+
 - 👋 Hi, I’m @Constanza-calvio                    
 - 👀 I’m interested in movies, science, music, photography, design and of course, programing 
 - 🌱 I’m currently learning more about JAVA, Ux and ui Design, Science and Data,Lionuz and network (OCI Certficiate with  Alura ) and working on my front-end and (for fun) back-end knowledge!
